@@ -1,0 +1,26 @@
+.row{
+	background-color: gainsboro;
+	margin: auto;
+	padding: auto;
+	border-bottom: 1px solid gray;
+}
+
+.content h2{
+	font-weight: bold;
+}
+
+.content p{
+	margin: 0px;
+	font-size: 22px;
+	width: 19%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.score{
+	background-color: gray;
+	color: white;
+	padding: 0 20 0 20px;
+}
