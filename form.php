@@ -1,5 +1,5 @@
 <?php
-	require_once("playerController.php"); 
+	require_once("player.php"); 
 	$player_name = '';
 
 	$player_name = htmlentities($_POST['player_name']);
